@@ -84,6 +84,7 @@ export default {
 					to: {
 						height: '0'
 					}
+<<<<<<< HEAD
 				},
 				'fade-in': {
 					from: {
@@ -104,13 +105,19 @@ export default {
 						transform: 'scale(1.02)',
 						filter: 'brightness(1.1)'
 					}
+=======
+>>>>>>> 2ba868a (inital commit)
 				}
 			},
 			animation: {
 				'accordion-down': 'accordion-down 0.2s ease-out',
+<<<<<<< HEAD
 				'accordion-up': 'accordion-up 0.2s ease-out',
 				'fade-in': 'fade-in 0.6s ease-out',
 				'pulse-glow': 'pulse-glow 2s ease-in-out infinite'
+=======
+				'accordion-up': 'accordion-up 0.2s ease-out'
+>>>>>>> 2ba868a (inital commit)
 			}
 		}
 	},

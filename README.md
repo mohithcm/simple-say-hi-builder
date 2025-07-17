@@ -1,8 +1,16 @@
 # Welcome to your Lovable project
 
+<<<<<<< HEAD
 ## Project info
 
 **URL**: https://lovable.dev/projects/7df70caa-0e7b-4def-9d20-7366f1afa086
+=======
+Guys download the zip and inside folder run 2 cmd's one for node index and npm run dev for front end , before doing this just type npm i for dependecies installation  and any changes req info in grp and create branch and push it 
+
+## Project info
+
+**URL**: https://lovable.dev/projects/d66e7ad3-33f5-4870-83dd-4d574b873f2e
+>>>>>>> 2ba868a (inital commit)
 
 ## How can I edit this co
 
@@ -10,7 +18,11 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
+<<<<<<< HEAD
 Simply visit the [Lovable Project](https://lovable.dev/projects/7df70caa-0e7b-4def-9d20-7366f1afa086) and start prompting.
+=======
+Simply visit the [Lovable Project](https://lovable.dev/projects/d66e7ad3-33f5-4870-83dd-4d574b873f2e) and start prompting.
+>>>>>>> 2ba868a (inital commit)
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -62,7 +74,11 @@ This project is built with:
 
 ## How can I deploy this project?
 
+<<<<<<< HEAD
 Simply open [Lovable](https://lovable.dev/projects/7df70caa-0e7b-4def-9d20-7366f1afa086) and click on Share -> Publish.
+=======
+Simply open [Lovable](https://lovable.dev/projects/d66e7ad3-33f5-4870-83dd-4d574b873f2e) and click on Share -> Publish.
+>>>>>>> 2ba868a (inital commit)
 
 ## Can I connect a custom domain to my Lovable project?
 

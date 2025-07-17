@@ -12,7 +12,7 @@ Guys download the zip and inside folder run 2 cmd's one for node index and npm r
 **URL**: https://lovable.dev/projects/d66e7ad3-33f5-4870-83dd-4d574b873f2e
 >>>>>>> 2ba868a (inital commit)
 
-## How can I edit this code?
+## How can I edit this co
 
 There are several ways of editing your application.
 

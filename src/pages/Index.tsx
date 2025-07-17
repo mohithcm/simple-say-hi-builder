@@ -1,11 +1,17 @@
-// Update this page (the content is just a fallback if you fail to update the page)
-
 const Index = () => {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-background">
-      <div className="text-center">
-        <h1 className="text-4xl font-bold mb-4">Welcome to Your Blank App</h1>
-        <p className="text-xl text-muted-foreground">Start building your amazing project here!</p>
+    <div className="min-h-screen flex items-center justify-center" 
+         style={{ background: 'var(--gradient-bg)' }}>
+      <div className="text-center animate-fade-in">
+        <div className="relative">
+          <h1 className="text-8xl md:text-9xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent animate-pulse-glow">
+            Hi
+          </h1>
+          <div className="absolute -inset-4 bg-gradient-to-r from-primary/20 to-accent/20 blur-2xl rounded-full animate-pulse-glow opacity-50"></div>
+        </div>
+        <p className="text-xl text-muted-foreground mt-8 animate-fade-in" style={{ animationDelay: '0.3s', animationFillMode: 'both' }}>
+          Welcome to your beautiful page
+        </p>
       </div>
     </div>
   );
